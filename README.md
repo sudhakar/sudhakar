@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently fiddling with couple of ideas in sale enablement and CS space
 - 🌱 I’m currently learning Rust and Solidity
